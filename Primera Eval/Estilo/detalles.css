@@ -1,0 +1,131 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+header {
+    background-color: #ed7d31;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 20px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    margin: 100px;
+    margin-bottom: 180px;
+    text-align: justify;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 30px;
+    background-color: #fb9e60;
+    margin-right: 125px;
+}
+
+p {
+    margin-right: 10%;
+    text-align: justify;
+    font-size: 25px;
+    position: relative;
+    top: -20px;
+}
+
+.El-Panda-Rojo {
+    font-size: 50px;
+    text-align: left;
+    margin-left: 70%;
+    color: rgb(0, 0, 0);
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+
+.content-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.habitat {
+    width: 40%;
+    height: auto;
+    float: right;
+    margin-left: 150px;
+    position:relative;
+    right: 10%;
+    margin-top: -1%;
+}
+.comida {
+    width: 30%;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+}
+
+.apariencia {
+    width: 40%;
+    height: auto;
+    float: right;
+    margin-left: 150px;
+    position:relative;
+    right: 10%;
+    margin-top: 1%;
+}
+
+.tabla1 {
+    position: relative;
+    left: 0%;
+    font-size: 20px;
+    margin-right: 100%;
+    width: 90%;
+    border-collapse:collapse;
+}
+
+.tabla1 th, .tabla1 td {
+    border: 1px solid #000000;
+    padding: 8px;
+}
+
+.tabla1 th {
+    background-color: rgb(237, 127, 80);
+    color: rgb(0, 0, 0);
+}
+
+.tabla1 tr:hover {
+    background-color: #ddd;
+}
+
+.copyright {
+    text-align: center;
+}
