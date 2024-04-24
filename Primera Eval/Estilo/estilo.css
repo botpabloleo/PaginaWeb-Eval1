@@ -31,9 +31,11 @@ nav a:hover {
 
 
 main {
-    margin: 100px;
+    margin: 4%;
     margin-bottom: 180px;
-    text-align: justify;    
+    text-align: justify;
+    position: relative;
+    left: 4%;
 }
 
 p {
@@ -68,12 +70,12 @@ h2{
 
 .referenciasp{
     background-color: #fb9e60;
-    margin-right: 125px;
+    margin-right: 10%;
 }
 
 .generalp {
     background-color: #fb9e60;
-    margin-right: 125px;
+    margin-right: 10%;
 }
 
 .content-wrapper {
