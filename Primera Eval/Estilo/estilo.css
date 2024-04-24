@@ -71,11 +71,13 @@ h2{
 .referenciasp{
     background-color: #fb9e60;
     margin-right: 10%;
+    border-radius: 10px;
 }
 
 .generalp {
     background-color: #fb9e60;
     margin-right: 10%;
+    border-radius: 10px;
 }
 
 .content-wrapper {
@@ -88,6 +90,7 @@ h2{
     top: -100px;
     width: 60%;
     height: auto;
+    border-radius: 10px;
 }
 
 
@@ -95,10 +98,11 @@ h2{
     width: 40%;
     height: auto;
     float: right;
-    margin-left: 150px;
+    margin-left: 15%;
     position:relative;
     right: 10%;
     margin-top: -1%;
+    border-radius: 10px;
 }
 
 .detallitos1 {
@@ -134,6 +138,7 @@ h2{
     height: auto;
     float: left;
     margin-right: 20px;
+    border-radius: 10px;
 }
 
 .referencias {

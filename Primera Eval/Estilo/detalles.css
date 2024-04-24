@@ -47,6 +47,7 @@ h2{
     font-size: 30px;
     background-color: #fb9e60;
     margin-right: 9%;
+    border-radius: 10px;
 }
 
 p {
@@ -88,12 +89,14 @@ footer {
     position:relative;
     right: 9%;
     margin-top: -1%;
+    border-radius: 10px;
 }
 .comida {
     width: 30%;
     height: auto;
     float: left;
     margin-right: 5%;
+    border-radius: 10px;
 }
 
 .apariencia {
@@ -104,6 +107,7 @@ footer {
     position:relative;
     right: 9%;
     margin-top: -1%;
+    border-radius: 10px;
 }
 
 .tabla1 {
@@ -113,6 +117,7 @@ footer {
     margin-right: 100%;
     width: 91%;
     border-collapse:collapse;
+    border-radius: 10px;
 }
 
 .tabla1 th, .tabla1 td {
