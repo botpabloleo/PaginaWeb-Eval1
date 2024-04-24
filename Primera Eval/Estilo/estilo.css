@@ -72,14 +72,14 @@ h2{
     background-color: #fb9e60;
     margin-right: 10%;
     border-radius: 10px;
-    padding-left: 20px;
+    padding-left: 2%;
 }
 
 .generalp {
     background-color: #fb9e60;
     margin-right: 10%;
     border-radius: 10px;
-    padding-left: 20px;
+    padding-left: 2%;
 }
 
 .content-wrapper {
@@ -139,7 +139,7 @@ h2{
     width: 30%;
     height: auto;
     float: left;
-    margin-right: 20px;
+    margin-right: 4%;
     border-radius: 10px;
 }
 
@@ -149,7 +149,7 @@ h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: left;
     margin-right: 8%;
-    margin-top: -20px;
+    margin-top: 1%;
     list-style-type: none;
     padding: 2%;
 }
