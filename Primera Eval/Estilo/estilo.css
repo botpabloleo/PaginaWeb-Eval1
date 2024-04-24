@@ -73,6 +73,9 @@ h2{
     margin-right: 10%;
     border-radius: 10px;
     padding-left: 2%;
+    margin: 5%;
+    position: relative;
+    right: 5%;
 }
 
 .generalp {
@@ -149,7 +152,7 @@ h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: left;
     margin-right: 8%;
-    margin-top: 1%;
+    margin-top: -2%;
     list-style-type: none;
     padding: 2%;
 }
